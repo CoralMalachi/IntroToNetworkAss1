@@ -1,0 +1,4 @@
+biu.ac.il,1.2.3.4
+google.co.il,1.2.3.5
+www.google.co.il,8.8.8.8
+mail.google.co.il,9.9.9.9
